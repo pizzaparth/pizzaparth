@@ -42,6 +42,6 @@ My work is heavily rooted in high-level mathematics, which I apply to problem-so
 
 ### 📫 Get in Touch
 * **Portfolio:** https://pizzparth.github.io/web
-* **Discord Username: ** chxxru
+* **Discord Username:** chxxru
 
 > "Mathematics is the language in which God has written the universe." — Galileo Galilei
