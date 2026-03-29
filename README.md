@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Parth Pancholi 👋
 
 I am a Computer Science student and developer focused on the intersection of **Core Mathematics**, **Physics**, and **Computational Simulations**. I enjoy building systems where abstract mathematical concepts come to life through code.
 
@@ -22,7 +22,7 @@ I am a Computer Science student and developer focused on the intersection of **C
 
 ### 🛠 Tech Stack
 * **Languages:** Python, JavaScript, HTML5, CSS3
-* **Tools & Libraries:** NumPy, SciPy, Matplotlib, OpenCV, DaVinci Resolve
+* **Tools & Libraries:** NumPy, SciPy, Matplotlib, OpenCV, Mediapipe.
 * **Environment:** Linux, Git, GitHub Pages, Cloud Infrastructure
 
 ### 🎓 Academic Focus (Theoretical Foundations)
@@ -40,13 +40,7 @@ My work is heavily rooted in high-level mathematics, which I apply to problem-so
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark)
-
----
-
 ### 📫 Get in Touch
-* **Portfolio:** [(https://github.com/pizzaparth/web)]
+* **Portfolio:** Website(https://github.com/pizzaparth/web)
 
 > "Mathematics is the language in which God has written the universe." — Galileo Galilei
