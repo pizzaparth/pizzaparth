@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pizzaparth/pizzaparth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ I am a Computer Science student and developer focused on the intersection of **C
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** Python, JavaScript, HTML5, CSS3
+* **Languages:** Python, JavaScript, Java, C++
 * **Tools & Libraries:** NumPy, SciPy, Matplotlib, OpenCV, Mediapipe.
 * **Environment:** Linux, Git, GitHub Pages, Cloud Infrastructure
 
